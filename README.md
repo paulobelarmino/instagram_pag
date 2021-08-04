@@ -6,3 +6,6 @@
 |------|------------------|
 |  01  | Baixar as imagens necessárias|
 |  02  | Desenvolver código           |
+|  03  | Subir código para github     |
+|  04  | Entregar Trabalho            |
+
